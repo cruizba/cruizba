@@ -1,5 +1,3 @@
-# Hi, I'm Carlos
-
 Software developer working on WebRTC and real-time communication. I love virtualization & containerization software, and I mostly code in Go.
 
 ## Projects
