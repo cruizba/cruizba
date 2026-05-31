@@ -12,6 +12,7 @@ Software developer working on WebRTC and real-time communication. I love virtual
 
 - **[ubuntu-dind](https://github.com/cruizba/ubuntu-dind)**: Ubuntu-based image for running Docker inside Docker.
 - **[publicip](https://github.com/cruizba/publicip)**: Go library & CLI to discover your public IP via STUN, DNS and HTTP.
+- **[AutoHttps](https://github.com/cruizba/AutoHttps)**: Docker proxy that adds HTTPS to web apps via Let's Encrypt, with custom or sslip.io IP-based domains.
 
 ### Work in progress
 
