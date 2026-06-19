@@ -6,7 +6,7 @@ Software developer working on WebRTC and real-time communication. I love virtual
 
 - **[OpenVidu](https://openvidu.io)**: Self-hosted platform for ultra-low latency WebRTC video & audio apps.
 
-### Personal projects
+### Personal projects (Stable)
 
 - **[ubuntu-dind](https://github.com/cruizba/ubuntu-dind)**: Ubuntu-based image for running Docker inside Docker.
 - **[publicip](https://github.com/cruizba/publicip)**: Go library & CLI to discover your public IP via STUN, DNS and HTTP.
